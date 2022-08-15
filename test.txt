@@ -1,2 +1,6 @@
 this is another test
+<<<<<<< HEAD
 
+=======
+another change to do wihout commiting
+>>>>>>> main
